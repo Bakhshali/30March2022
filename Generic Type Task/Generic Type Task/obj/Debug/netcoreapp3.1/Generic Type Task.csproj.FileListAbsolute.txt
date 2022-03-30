@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\bin\Debug\netcoreapp3.1\Generic Type Task.exe
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\bin\Debug\netcoreapp3.1\Generic Type Task.deps.json
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\bin\Debug\netcoreapp3.1\Generic Type Task.runtimeconfig.json
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\bin\Debug\netcoreapp3.1\Generic Type Task.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\bin\Debug\netcoreapp3.1\Generic Type Task.dll
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\bin\Debug\netcoreapp3.1\Generic Type Task.pdb
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.dll
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.pdb
+C:\Users\Ali\source\repos\Generic Type Task\Generic Type Task\obj\Debug\netcoreapp3.1\Generic Type Task.genruntimeconfig.cache
